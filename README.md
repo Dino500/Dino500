@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dino Topuz</h1>
 <h3 align="center">Full stack developer from Bosnia and Herzegovina</h3>
 
-- 🌱 I’m currently learning **rxjs, three.js**
+- 🌱 I’m currently learning **three.js**
 
 - 💬 Ask me about **react, dotnet**
 
